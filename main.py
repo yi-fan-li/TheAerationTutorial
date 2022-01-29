@@ -1,3 +1,4 @@
+from api import fetcher
 def main_warpper():
     #Attributes are a thing
     print(f"this is the start of our python project. This function's name is {main_warpper.__name__}")
