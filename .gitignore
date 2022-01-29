@@ -1,4 +1,8 @@
 __pycache__
+<<<<<<< HEAD
+=======
+data_to_ignore/
+>>>>>>> 051209704056806cee4177fa9f2cbdfc73d449ef
 *.log
 *.out
 *.pdf
